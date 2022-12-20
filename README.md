@@ -1,10 +1,10 @@
 # Customized Momentum (nomadcoders challenge)
 
 ## Description
-Momentum APP을 클론 코딩한 바닐라 JS 프로젝트입니다.
-OpenWeather API를 활용해 해당 지역 날씨를 설정하였으며 
-현재 시간 확인, Login, Todo List 이용이 가능합니다.
-새로고침시 배경화면과 아래의 명언이 랜덤 변경됩니다.
+Momentum APP을 클론 코딩한 바닐라 JS 프로젝트입니다.<br />
+OpenWeather API를 활용해 해당 지역 날씨를 설정하였으며 <br />
+현재 시간 확인, Login, Todo List 이용이 가능합니다.<br />
+새로고침시 배경화면과 아래의 명언이 랜덤 변경됩니다.<br />
 
 ## About Project
 ### 사용기술
